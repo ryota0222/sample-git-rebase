@@ -1,3 +1,3 @@
 # sample-git-rebase
 
-phase2
+phase2:v2
