@@ -1,3 +1,3 @@
 # sample-git-rebase
 
-master
+develop
