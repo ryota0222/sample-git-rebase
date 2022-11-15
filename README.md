@@ -1,1 +1,3 @@
 # sample-git-rebase
+
+master
