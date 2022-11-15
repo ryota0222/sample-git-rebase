@@ -1,3 +1,3 @@
 # sample-git-rebase
 
-phase3_v1.1:v3
+feature/phase3_v1.1-matsumoto
